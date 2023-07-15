@@ -1,2 +1,4 @@
 # pythagtheorem
-Pythagorean Theorem Exerecise 
+
+Pythagorean Theorem Exerecise
+AREA OF THE CIRCLE
